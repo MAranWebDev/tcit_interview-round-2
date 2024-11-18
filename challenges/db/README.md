@@ -3,3 +3,5 @@
 ## Question
 
 ## Solution
+
+![solution](index.drawio)
