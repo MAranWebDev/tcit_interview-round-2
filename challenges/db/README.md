@@ -4,4 +4,4 @@
 
 ## Solution
 
-![solution](index.drawio)
+![solution](readme.png)
