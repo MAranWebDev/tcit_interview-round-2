@@ -2,7 +2,7 @@
 
 ## Uso
 
-- Correr con `node index.js`
+- Correr con el siguiente comando: `node index.js`
 
 ## Instrucciones
 
