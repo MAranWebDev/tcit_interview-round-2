@@ -35,7 +35,7 @@
   - Monto de su plan mensual de isapre en UF.
   - Número de sus cargas familiares.
 
-- Todos los usuarios del sistema se autentifican con correo y password; los correos deben ser únicos para todos los usuarios de la aplicación.
+- Todos los usuarios del sistema se autentifican con correo y password. Los correos deben ser únicos para todos los usuarios de la aplicación.
 
 - Para simplificar la complejidad del modelo, considera que el sistema es NO transaccional, es decir:
   - El saldo de la cuenta es un valor único que se va actualizando en el tiempo.
