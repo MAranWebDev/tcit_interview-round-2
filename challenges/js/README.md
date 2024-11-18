@@ -1,6 +1,6 @@
-# Javascript Challenge:
+# Javascript Challenge
 
-## Usage
+## Instructions
 
 - Run with `node index.js`
 
