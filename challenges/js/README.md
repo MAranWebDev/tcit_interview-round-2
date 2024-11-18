@@ -8,7 +8,7 @@
 
 - Las preguntas se basan en el siguiente modelo de datos:
 
-![visual sample](/readme.png)
+![database model](readme.png)
 
 ## Questions
 
