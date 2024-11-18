@@ -2,4 +2,4 @@
 
 ## Instrucciones
 
-- Los challenges de "Base de datos" y "JavaScript", se encuentran en el directorio "./challenges".
+- Los challenges de "Base de datos" y "JavaScript" se encuentran en el directorio ./challenges.
