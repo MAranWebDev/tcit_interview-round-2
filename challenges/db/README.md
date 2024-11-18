@@ -32,7 +32,7 @@
 
 - Por razones estratégicas de la empresa, se ha decidido que la aplicación considere funcionalidades que no estaban contempladas inicialmente, ya que se ha decidido no desarrollar una intranet e incorporar esas funcionalidades en este sistema por términos de costos. Las funcionalidades que se quieren desarrollar son, que los ejecutivos puedan ver el:
 
-  - Monto de su plan mensual de isapre en UF (Para los postulantes extranjeros: una isapre es una institución de salud a la que se le paga un valor mensual, y la moneda que se utiliza en Chile para hacer este pago se llama UF. Considera que básicamente es un monto de dinero que el ejecutivo debe poder visualizar).
+  - Monto de su plan mensual de isapre en UF.
   - Número de sus cargas familiares.
 
 - Todos los usuarios del sistema se autentifican con correo y password; los correos deben ser únicos para todos los usuarios de la aplicación.
