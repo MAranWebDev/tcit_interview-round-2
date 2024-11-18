@@ -2,4 +2,4 @@
 
 ## Instructions
 
-- Check both test in challenges folder.
+- Check both challenges inside the "challenges" folder.
