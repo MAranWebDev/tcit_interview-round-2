@@ -1,30 +1,30 @@
-// Question 1
+// Pregunta 1
 const q1AccountsArr = [
   { id: 1, id_ejecutivo: 1, id_cliente: 1, monto: 2500001 },
   { id: 2, id_ejecutivo: 2, id_cliente: 1, monto: 2500001 },
   { id: 3, id_ejecutivo: 3, id_cliente: 2, monto: 200 },
 ];
 
-// Question 2
+// Pregunta 2
 const q2AccountsBiggerThan = q1AccountsArr.filter(
   ({ monto }) => monto > 2500000
 );
 
-// Question 3
+// Pregunta 3
 const q3SortedAccounts = [...q1AccountsArr].sort((a, b) => b.monto - a.monto);
 
-// Question 4
+// Pregunta 4
 const q4ClientsArr = [
   { id: 1, rut: "20.300.800-5" },
   { id: 2, rut: "20.400.800-7" },
 ];
 
-// Question 5
+// Pregunta 5
 const q5ClientsWithAccountBiggerThan = q2AccountsBiggerThan.map(
   ({ id_cliente }) => q4ClientsArr.find(({ id }) => id === id_cliente)
 );
 
-// Question 6
+// Pregunta 6
 const q6ClientsAccountsSumArr = (() => {
   // Optional, remove duplicates
   const clientsId = q5ClientsWithAccountBiggerThan.map(({ id }) => id);

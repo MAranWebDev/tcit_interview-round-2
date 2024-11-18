@@ -1,5 +1,5 @@
 # TCIT SemiSenior&Jr Interview Round 2 - Live Challenge
 
-## Instructions
+## Instrucciones
 
-- Check both challenges inside the "challenges" folder.
+- Los challenges de "Base de datos" y "JavaScript", se encuentran en el directorio "./challenges".

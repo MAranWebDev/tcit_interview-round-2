@@ -1,16 +1,16 @@
 # Javascript Challenge
 
-## Instructions
+## Uso
 
-- Run with `node index.js`
+- Correr con `node index.js`
 
-## References
+## Instrucciones
 
-- Las preguntas se basan en el siguiente modelo de datos:
+- Considerar el siguiente modelo de datos para las preguntas:
 
 ![database model](readme.png)
 
-## Questions
+## Preguntas
 
 - Pregunta 1: Lo primero que necesito que hagas es que declares las cuentas:
 
