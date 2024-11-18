@@ -1,4 +1,4 @@
-# TCIT SemiSenior&Jr Interview Round 2 - Live Challenge
+# TCIT Challenge Full-Stack Semi Senior & Junior - Interview Round 2 (DB, JavaScript)
 
 ## Instrucciones
 
