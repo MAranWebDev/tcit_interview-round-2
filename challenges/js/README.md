@@ -1,4 +1,4 @@
-# Javascript Challenge
+# JavaScript Challenge
 
 ## Uso
 
